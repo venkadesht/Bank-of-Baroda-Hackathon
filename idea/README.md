@@ -1,1 +1,5 @@
-## Add your idea files to this directory. Please don't rename this directory.
+We have decide choosed the problem statement Video Analytics because almost all over the world bank fraud is happenning like money stealing, card shimming, card trapping, phishing etc. To avoid these kind of illegal activities in banks definitely we have to take an action otherwise the percentage of bank fraud will increase rapidely every year.
+From this graph we can clearly able to understand bank frauds from the year 2009-2022. The bank frauds are rapidly increasing year by year. To reduce these kinds of frauds we have to come up with some new solutions with Machine learning and Deep learning Technologies these technologies are now ruling the world. By these technologies we can definitely able to reduce the bank frauds. So that only we  have decided to solve this problem statement.
+
+Our solution is better than alternatives because it is doing mutiple jobs in a fraction of second. I mean it is performing sentimental anlysis on people, identifying expression, identifying count of people, giving person details etc. So doing multiple jobs at a same time is the advantage of our project it will be very useful in banking sectors. It will reduce the amount of banking frauds happenning in india.
+
